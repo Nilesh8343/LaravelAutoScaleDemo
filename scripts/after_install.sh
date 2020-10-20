@@ -1,5 +1,5 @@
 # Enter html directory
-cd /var/www/data/
+cd /data
 
 # Clear any previous cached views
 php artisan config:clear
