@@ -8,6 +8,3 @@ php artisan view:clear
 
 # Optimize the application
 php artisan config:cache
-
-# Bring up application
-php artisan up
